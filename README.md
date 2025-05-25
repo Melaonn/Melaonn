@@ -1,7 +1,7 @@
 # Hi, I'm Melson Dsouza 👋
 
 ## 🚀 About Me
-I'm a Artifical Intelligence and Machine Learning Engineering student passionate about AI, and full-stack development. I love building projects that combine software and hardware for real-world impact.
+I'm a Artifical Intelligence and Machine Learning Engineering student passionate about AI, and full-stack development. I love building projects that combine software for real-world impact.
 ---
 
 ## 🛠 Skills
