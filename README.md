@@ -1,8 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Melson Dsouza 👋
 
 ## 🚀 About Me
-I'm a Computer Science Engineering student passionate about AI, embedded systems, and full-stack development. I love building projects that combine software and hardware for real-world impact.
-
+I'm a Artifical Intelligence and Machine Learning Engineering student passionate about AI, and full-stack development. I love building projects that combine software and hardware for real-world impact.
 ---
 
 ## 🛠 Skills
@@ -13,7 +12,7 @@ I'm a Computer Science Engineering student passionate about AI, embedded systems
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF3F00?style=for-the-badge&logo=verilog&logoColor=white)
+
 
 ---
 
@@ -31,8 +30,8 @@ I'm a Computer Science Engineering student passionate about AI, embedded systems
 
 ## 🎓 Education
 
-**Bachelor of Engineering (B.E.) in Computer Science Engineering**  
-[Your University Name] — [Your Graduation Year]
+**Bachelor of Engineering (B.E.) in Artificial Intelligence and Machine Learning Engineering**  
+P. A. COLLEGE OF ENGINNERING — 2025
 
 ---
 
