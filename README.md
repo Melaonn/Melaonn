@@ -16,18 +16,6 @@ I'm a Artifical Intelligence and Machine Learning Engineering student passionate
 
 ---
 
-## 📂 Projects Highlights
-
-- 🔐 **CAN Bus Intrusion Detection System** – Real-time alerts and GUI for automotive security.
-- 📊 **Vehicle Dashboard Alert System** – Engine stress, fuel efficiency, brake wear monitoring.
-- 📚 **PDF Chat Assistant** – Ask questions from your PDFs using LLMs.
-- 📬 **Email Assistant** – LLM-powered email summarization and PDF handling.
-- ✅ **Todo Summary Assistant** – Slack-integrated task summarizer.
-- 🧠 **Knowledge Assistant** – Powered by LangChain and OpenAI APIs.
-- 🖼️ **Responsive Business Website** – React-based site with parallax and animations.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering (B.E.) in Artificial Intelligence and Machine Learning Engineering**  
