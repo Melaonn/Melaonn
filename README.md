@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Melson Dsouza</h1>
 <h3 align="center">AI/ML Engineer | Developer | DevOps.</h3>
 
-## 🚀 About Me
-I'm a Artifical Intelligence and Machine Learning Engineering student passionate about AI, and full-stack development. I love building projects that combine software for real-world impact.
----
+- 🔭 I’ve recently completed my Bachelor of Engineering (B.E.) from Visvesvaraya Technological University (VTU)**
+
+- 🤝 I’m looking for new role 
+
+- 📫 How to reach me **dsouzamelson9@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/melson-dsouza/](https://www.linkedin.com/in/melson-dsouza/)
 
 ## 🛠 Skills
 
